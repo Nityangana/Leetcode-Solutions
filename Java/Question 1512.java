@@ -16,7 +16,7 @@ class Solution {
         return count;
     }
 }
-/* BY LOOP
+// BY LOOP
 class Solution {
     public int numIdenticalPairs(int[] nums) {
         int count = 0;
@@ -30,4 +30,3 @@ class Solution {
         return count;
     }
 }
-*/
